@@ -59,6 +59,13 @@ Want to be showcased as a contributor?
       </a><br/>
       CTO
     </td>
+     <td align="center">
+      <a href="https://github.com/ragavi1105">
+        <img src="https://avatars.githubusercontent.com/u/147172147?v=4" alt="Ragavi"/><br/>
+        <sub><b>Ragavi</b></sub>
+      </a><br/>
+      Developer
+    </td>
     <td align="center">
       <a href="https://github.com/kumaresan-07">
         <img src="https://avatars.githubusercontent.com/u/199898753?v=4" width="100px;" alt="kumaresan C"/><br/>
@@ -87,8 +94,42 @@ Want to be showcased as a contributor?
   </a><br/>
   Contributor
 </td>
-
-  </tr>
+    <td align="center">
+  <a href="https://github.com/Harisudhan21">
+    <img src="https://avatars.githubusercontent.com/u/157321314?v=4" width="100px;" alt="Harisudhan"/><br/>
+    <sub><b>Harisudhan</b></sub>
+  </a><br/>
+  Contributor
+</td>
+<td align="center">
+  <a href="https://github.com/Poovitha-R">
+    <img src="https://avatars.githubusercontent.com/u/170193325?v=4" width="100px;" alt="Poovitha"/><br/>
+    <sub><b>Poovitha</b></sub>
+  </a><br/>
+  Contributor
+</td>
+    <td align="center">
+      <a href="https://github.com/Sairam19062006">
+      <img src="https://avatars.githubusercontent.com/u/199897544?v=4" width="100px"; alt="Sairam"/><br/>
+      <sub><b>Sairam</b></sub>
+      </a><br/>
+      Contributor
+    </td>
+     <td align="center">
+      <a href="https://github.com/JayanithaSivakumar">
+        <img src="https://avatars.githubusercontent.com/u/199749955?s=400&v=4" width="100px;" alt="Jayanitha S"/><br/>
+        <sub><b>Jayanitha S</b></sub>
+      </a><br/>
+      Contributor
+    </td>
+     <td align="center">
+      <a href="https://github.com/Karunya-csbs">
+      <img src="https://avatars.githubusercontent.com/u/177417444?v=4" width="100px"; alt="Karunya"/><br/>
+      <sub><b>Karunya</b></sub>
+      </a><br/>
+      Contributor
+    </td>
+ </tr>
 </table>
 
 > 📌 _Submit a PR to add yourself to the list above._
