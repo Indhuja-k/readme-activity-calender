@@ -103,7 +103,6 @@ github-repo-stats-widget/
 
 
 
-
 ## 🚀 Deployment
 
 You can deploy this widget to **GitHub Pages**, or use any static hosting service like Netlify, Vercel, or Firebase.
